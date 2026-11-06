@@ -1,1 +1,1 @@
-sample resolved sample sample
+sample resolved sample sample sample
